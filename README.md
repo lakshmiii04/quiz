@@ -46,7 +46,7 @@ Simple and user-friendly interface
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/think-fast-quiz.git
+git clone https://github.com/lakshmiii04/quiz/blob/main/quizz.c
 
 
 2. Navigate to the project folder:
